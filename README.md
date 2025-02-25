@@ -1,6 +1,9 @@
 # Nextra Starter
 
-The minimum starter theme for Nextra.
+The minimum starter theme for Nextra. Already sorely outdated in under a year.
+
+See: https://mkaz.blog/code/code/blog-switch-astro
+
 
 ## Quick Start
 
